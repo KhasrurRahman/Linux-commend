@@ -19,6 +19,7 @@ history -d <number of the line> = delete the specific command from history
 history -c = delete the entire history
 type any commend with a space; the commend don't save in the history
 HISTTIMEFORMAT="%d/%m/%y %T " = to set time and date for command history
+pwd  = show the directory path
 
 ##########################
 ## Running commands as root (sudo, su)
