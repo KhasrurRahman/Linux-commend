@@ -1,0 +1,33 @@
+ls   = List of files
+ls -l /var  = List of file with lenght
+ls -a /var  = list of files with hidden files also
+df   = display information of file system and file system its usig
+man ls = see the all commend user manual
+-> then type h
+type g for going start of the page
+type G for going bottom of the page
+/   = for search a string
+type n for go down
+type N for go up
+<commend name> help  = to see the commend details
+man -k <commend>  = see the manual commend details
+man <commend>  = see the manual commend details
+man -k "search string"  = this will search in whole manual to find the sting and details
+ostnamectl  = check os information
+history   = to see the typed commend hostory
+history -d <number of the line> = delete the scpecific commend from history
+history -c = delete the entire history
+type any commend with an space  = the commend dont save in the history
+HISTTIMEFORMAT="%d/%m/%y %T " = to set time and date for commend history
+
+
+___________________________________________________________________
+Type shortcut:
+ctrl+l  = clear
+ctrl+d  = exit/logout
+ctrl+a  = move to the begining of the current line
+crtl+e  = move curture to the end of the current line
+ctrl+u = delete the entire string of the current line
+ctrl+z = pose the porecess 
+
+ 
