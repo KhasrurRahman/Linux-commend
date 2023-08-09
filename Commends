@@ -1,11 +1,11 @@
 ls   = List of files
 ls -l /var  = List of files with length
 ls -a /var  = list of files with hidden files also
-df   = display information of file system and file system's usage
+df   = display information of file system and file system's usageabout the
 man ls = see the all-comment user manual
 -> Then type h
 type g for the start of the page
-type G for going to the bottom of the page
+type G to going to the bottom of the pagego
 /   = for searching a string
 type n for going down
 type N for going up
@@ -17,10 +17,10 @@ hostnamectl  = check os information
 history   = to see the typed command history
 history -d <number of the line> = delete the specific command from history
 history -c = delete the entire history
-type any commend with a space  = the commend don't save in the history
+type any commend with a space; the commend don't save in the history
 HISTTIMEFORMAT="%d/%m/%y %T " = to set time and date for command history
 
-
+ 
 ___________________________________________________________________
 Type shortcut:
 ctrl+l  = clear
